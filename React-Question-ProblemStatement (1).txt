@@ -1,0 +1,20 @@
+Develop following reusable components in React
+
+- NavBar Component (with set of menus getting rendered dynamically, and one logout button)
+- DashBoard Component with
+  Create new Account Page - Component
+  Account List Display Component
+- Logout Page 
+
+Expected Attributes from the work output
+========================================
+JSON-Server/Spring Boot Server integration for Data feed
+Message Backbone using BehaviourSubject (ex Logout to other components, updation of Account List when creating a new account)
+State Less and State Full Component
+Usage of Formik for Field Validation
+Exception Handling (using wrapper approach)
+Modular approach,useState for event handling
+Usage of custom hooks for managing application state
+Usage of Session Storage for user context (hard coded during app startup)
+Show Case, the  ES6 Feature  such as :- spread,destructuring,objects,conditional display,const,arrays etc
+Responsiveness    
