@@ -1,0 +1,84 @@
+{
+  "Student": [
+    {
+      "id": 15451,
+      "firstName": "kishor",
+      "lastName": "kumar",
+      "email": "kishor@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": 2122,
+      "firstName": "srinath",
+      "lastName": "narayanan",
+      "email": "sn@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": 25153,
+      "firstName": "Dhanush",
+      "lastName": "m",
+      "email": "dhanush@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": 4454,
+      "firstName": "Arun",
+      "lastName": "kumar",
+      "email": "arun@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": 23455,
+      "firstName": "Bala",
+      "lastName": "subramani",
+      "email": "bala@gmail.con",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": 64552,
+      "firstName": "Sri",
+      "lastName": "ram",
+      "email": "sriram@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": 76088,
+      "firstName": "kk",
+      "lastName": "rhr",
+      "email": "trhgt4h4@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 37828,
+      "firstName": "kishor",
+      "lastName": "kumar",
+      "email": "kishore@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 86644,
+      "firstName": "loki",
+      "lastName": "mohan",
+      "email": "loki@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 91824,
+      "firstName": "srianth",
+      "lastName": "narayanan",
+      "email": "sri@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ]
+}
